@@ -7,8 +7,10 @@ export const siteConfig: SiteConfig = {
   url: "",
   ogImage: "https://tx.shadcn.com/og.jpg",
   links: {
-    twitter: "",
-    github: "",
-    devfolio: "",
+    twitter:
+      "https://aspecta.id/build-together/decentralized-ai-buildathon?submission_id=201",
+    github: "https://github.com/prathamesh-mutkure/zk-passport",
+    devfolio:
+      "https://aspecta.id/build-together/decentralized-ai-buildathon?submission_id=201",
   },
 };

@@ -21,7 +21,7 @@ I'll add YouTube video here
 ### Links
 
 - The project has been deployed on Vercel - [zkPass-Port](https://zk-passport.vercel.app/)
-- The project has been submitted on [AspectaID](https://aspecta.id/u/prathamesh-m/projects/d729d5ed-aaf4-4336-b96a-46319b19d8a5/edit?should_go_back=true&&open_submit_modal=true) for the Decentralized AI Buildathon
+- The project has been submitted on [AspectaID](https://aspecta.id/build-together/decentralized-ai-buildathon?submission_id=201) for the Decentralized AI Buildathon
 
 ### Tech Stack
 
