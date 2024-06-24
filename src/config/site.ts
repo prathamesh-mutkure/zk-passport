@@ -1,8 +1,9 @@
 import type { SiteConfig } from "~/types";
 
 export const siteConfig: SiteConfig = {
-  name: "dPass",
-  description: "A Decentralised Electronic Passport based on Polygon/Ethereum",
+  name: "zkPassPort",
+  description:
+    "ZK Based Decentralised International Travel Pass (Digital Passport)",
   url: "",
   ogImage: "https://tx.shadcn.com/og.jpg",
   links: {

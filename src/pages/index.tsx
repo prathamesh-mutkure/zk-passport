@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>dPass: Decentralized Passport</title>
+        <title>zkPassPort: Decentralized Passport</title>
         <meta
           name="description"
           content="An Decentralised Passport powered by Polygon"
